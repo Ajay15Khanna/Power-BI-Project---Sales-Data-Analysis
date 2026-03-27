@@ -228,3 +228,11 @@ A detailed, filterable order-level data table for granular analysis:
 > Granular order-level table with dynamic slicers for Date, Customer Name, Product Name, and Promotion Name.
 
 ---
+
+## 👤 Author
+
+Ajay Khanna
+
+---
+
+*This project was built as part of a portfolio to demonstrate proficiency in Power BI data modeling, DAX, interactive dashboard design, and business intelligence storytelling.*
